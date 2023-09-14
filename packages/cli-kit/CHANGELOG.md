@@ -1,5 +1,14 @@
 # @shopify/cli-kit
 
+## 3.50.0
+
+### Patch Changes
+
+- cf5bbff61: Add verbose logs for Bugsnag reporting
+- 8b2427d1e: Fix dependency installation for yarn with workspaces
+- 360e029db: Fix local font urls
+- 3ed6ae88e: Dev component rethrow the exception to display error banner
+
 ## 3.49.1
 
 ## 3.49.0

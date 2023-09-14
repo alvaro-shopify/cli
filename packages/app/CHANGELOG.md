@@ -1,5 +1,22 @@
 # @shopify/app
 
+## 3.50.0
+
+### Minor Changes
+
+- 0354bebfd: Add the GraphiQL Explorer to dev
+
+### Patch Changes
+
+- cf5bbff61: Do not report "not found" errors
+- 3ed6ae88e: Dev component rethrow the exception to display error banner
+- Updated dependencies [cf5bbff61]
+- Updated dependencies [8b2427d1e]
+- Updated dependencies [360e029db]
+- Updated dependencies [3ed6ae88e]
+  - @shopify/cli-kit@3.50.0
+  - @shopify/plugin-cloudflare@3.50.0
+
 ## 3.49.1
 
 ### Patch Changes
